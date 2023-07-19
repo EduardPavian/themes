@@ -26,12 +26,12 @@
   --channels-transparency: 0.2;
   --chat-transparency: 0.2;
   --memberlist-transparency: 0.2;
-  --wintitlebar-background-blur: 0px;
-  --header-background-blur: 0px;
-  --serverlist-background-blur: 0px;
-  --channels-background-blur: 0px;
-  --chat-background-blur: 0px;
-  --memberlist-background-blur: 0px;
+  --wintitlebar-background-blur: 5px;
+  --header-background-blur: 5px;
+  --serverlist-background-blur: 5px;
+  --channels-background-blur: 5px;
+  --chat-background-blur: 5px;
+  --memberlist-background-blur: 5px;
   --customFont: Libre Baskerville;
   --codeBlocksCustomFont: Chakra Petch;
   --fullwhite-font: 255,255,255;
