@@ -1,0 +1,57 @@
+/**
+ * @name astolfo
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=comic+sans+ms:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/RA8ixsD.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://wallpapercrafter.com/th800/453717-Anime-FateGrand-Order-Phone-Wallpaper.png');
+  --popout-image-blur: 4px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: var(--background-image);
+  --overlay-image-blur: 2px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.pinimg.com/564x/c0/cc/9c/c0cc9c01cb455378bb38ec569617b012.jpg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.2;
+  --left-brightness: 0.1;
+  --middle-brightness: 0;
+  --right-brightness: 0;
+  --overlay-brightness: 0.32;
+  --gradient-primary: 148,0,51;
+  --gradient-secondary: 0,0,0;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgb(116,0,40,0);
+  --gradient-direction: 324deg;
+  --tint-colour: 11,11,11;
+  --tint-brightness: 0.44;
+  --font: comic sans ms;
+  --window-padding: 13px;
+  --window-roundness: 16px;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 10px;
+}
+
+/* Any custom CSS below here */
+
+
